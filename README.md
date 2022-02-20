@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kabir Singh aka Tech Boy Gaming, </div>  
+### <div align="center">I'm NOBITA, </div>  
   
 
 - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
